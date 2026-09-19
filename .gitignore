@@ -1,0 +1,12 @@
+.build/
+.swiftpm/
+Package.resolved
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+.DS_Store
+
+# nada de credenciales al repo
+*.env
+*.plist.local
